@@ -1,4 +1,4 @@
-# Automated Phishing Email Analysis Report Script
+# Automated Phishing Email Analysis Report
 
 ## Introduction
 The essence of this project is to implement an automated method for generating detailed phishing email analysis reports. This involves automatically fetching potentially suspicious emails from a Gmail mailbox and compiling a structured report for simpler analysis tasks.
